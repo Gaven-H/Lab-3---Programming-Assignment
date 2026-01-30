@@ -6,3 +6,6 @@ n/a
 1/29/2026
 """
 from Lab3_ghuynh_add import items_list
+
+items_list[4] = "Binoculars"
+
