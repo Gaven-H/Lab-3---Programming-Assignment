@@ -10,3 +10,4 @@ items_list = ["Tent", "Fire Starter", "Bed Roll", "Light Sources", "Foraging Gui
 
 print ("Total items:", len(items_list))
 
+print("Alphabetically sorted list:", sorted(items_list))
