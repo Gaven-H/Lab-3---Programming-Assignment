@@ -8,4 +8,5 @@ n/a
 
 items_list = ["Tent", "Fire Starter", "Bed Roll", "Light Sources", "Foraging Guide", "Food Supplies", "Water", "Tools", "Radio", "First Aid Kit"]
 
-print (len(items_list))
+print ("Total items:", len(items_list))
+
