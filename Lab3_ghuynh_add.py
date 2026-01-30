@@ -7,3 +7,5 @@ n/a
 """
 from Lab3_ghuynh_list import items_list
 
+items_list.extend(["Rope, Sunscreen, Heater, Hat, Camera"])
+
