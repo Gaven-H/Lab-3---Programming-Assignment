@@ -10,3 +10,5 @@ from Lab3_ghuynh_list import items_list
 items_list.remove("Binoculars")
 
 print ("Final List:", items_list)
+
+print (f"Total items to bring: {len(items_list)}")
